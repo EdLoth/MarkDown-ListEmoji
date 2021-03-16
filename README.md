@@ -2,7 +2,6 @@
 <h2>List of Emojis available on Marckdown</h2>
 <hr>
 
-
 <strong>People List:</strong>
 <hr>
 
