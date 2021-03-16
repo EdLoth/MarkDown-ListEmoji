@@ -118,6 +118,7 @@
 
 <strong>Objects List</strong>
 <hr>
+
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
@@ -210,6 +211,7 @@
 
 <strong>Places List:</strong>
 <hr>
+
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
@@ -251,6 +253,7 @@
 
 <strong>Symbols List:</strong>
 <hr>
+
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
